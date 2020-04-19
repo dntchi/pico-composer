@@ -3,11 +3,18 @@ title: Navigation bar
 ---
 
  - [Home](%base_url%)
- - [Category 1](#)
-	- [Page 1.1](%base_url%?a/a)
-	    - [Page 1.1.1](%base_url%?a/a/a)
-	- [Page 1.2](%base_url%?a/b)
- - [Category 2](#)
+ - [Europa](#)
+ 	- [Barcelona](%base_url%?europa/barcelona)
+	- [Dublín](%base_url%?europa/dublin)
+	- [Paris](%base_url%?europa/paris)
+	- [Madrid](%base_url%?europa/madrid)
+	- [Salamanca](%base_url%?europa/salamanca)
+
+- [Asia](#)
+	- [Kathmandu](#)
+	- [Page 2.2](#)
+
+
+- [Category 3](#)
 	- [Page 2.1](#)
 	- [Page 2.2](#)
- 
